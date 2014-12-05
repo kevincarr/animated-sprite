@@ -1,5 +1,5 @@
 /*
-Animatied Sprite - 12/05/2014
+animated-sprite - 12/05/2014
 By Kevin Carr 
 http://www.kevincarr.com/
 */
