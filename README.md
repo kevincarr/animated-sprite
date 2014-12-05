@@ -15,7 +15,7 @@ Put the spriteControl.js file into the website's js folder.
 Include this in the html page:
 
 ```javascript
-<script src="js/spriteControl.js" />
+<script src="js/spriteControl.js" ></script>
 ```
 
 ### Creating a class for the animated div
