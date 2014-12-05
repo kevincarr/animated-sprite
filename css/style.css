@@ -1,0 +1,30 @@
+h2 {
+	color: Red;
+	font: bold 20px/20px Arial;
+	text-shadow: 2px 2px 2px #000;
+}
+.fontComment {
+	color: blue;
+	font: bold Arial italic;
+}
+
+.SpriteCSS{
+	width:40px;
+	height:40px;
+	background:url('../img/spriteButton.png') 0px -40px;
+}
+.SpriteCSS:hover{
+	background: url('../img/spriteButton.png') 0px 0px;
+}
+.spriteAnimation{
+	width:40px;
+	height:40px;
+	max-height:160px;
+	background:url('../img/spriteAnimation.png');
+}
+.spriteRollover{
+	width:40px;
+	height:40px;
+	max-height:200px;
+	background:url('../img/spriteRollover.png');
+}
