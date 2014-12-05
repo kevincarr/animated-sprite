@@ -4,7 +4,7 @@ This is a JavaScript (with jQuery) file that uses a background image of a div to
 
 ## Requirements
 
-The functions in the spriteControl.js uses jQuery.
+The functions in the spriteControl.js use jQuery.
 
 ## Using these functions
 
